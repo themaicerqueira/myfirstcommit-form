@@ -12,7 +12,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /*background: #0c0ce94d;*/
     background-image: url("./Backgrounds/tech.jpg");
     background-repeat: no-repeat;
     background-size: cover;
